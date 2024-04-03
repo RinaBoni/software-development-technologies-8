@@ -1,9 +1,158 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T06:40:01.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" version="24.2.0" etag="sG-oJdN2CerVjuGd7-P5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-03T06:55:58.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="D5dz1GgSRfjx7jgQCWIY" version="24.2.0" type="github">
   <diagram name="Page-1" id="smyI7X2A5dVe8MiWKBYw">
-    <mxGraphModel>
+    <mxGraphModel dx="1194" dy="2829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-1" value="Ведение бух учета при розничной торговле" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-590" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="590" y="-849" width="430" height="369" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-7" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="WSI-DR0SaIGXLMEpwzdS-6">
+          <mxGeometry y="459" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WSI-DR0SaIGXLMEpwzdS-7">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-9" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WSI-DR0SaIGXLMEpwzdS-7">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-10" value="Банк" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WSI-DR0SaIGXLMEpwzdS-7">
+          <mxGeometry x="15" y="25" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WSI-DR0SaIGXLMEpwzdS-6" target="WSI-DR0SaIGXLMEpwzdS-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="479" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="409" />
+              <mxPoint x="80" y="409" />
+            </Array>
+            <mxPoint x="80" y="369" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WSI-DR0SaIGXLMEpwzdS-6" target="WSI-DR0SaIGXLMEpwzdS-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="369" as="sourcePoint" />
+            <mxPoint x="70" y="479" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="409" />
+              <mxPoint x="50" y="409" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-20" value="Платежное поручение" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WSI-DR0SaIGXLMEpwzdS-6">
+          <mxGeometry x="90" y="389" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-46" value="Расходы на доставку" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WSI-DR0SaIGXLMEpwzdS-6">
+          <mxGeometry x="30" y="189" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-34" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="WSI-DR0SaIGXLMEpwzdS-6">
+          <mxGeometry x="-80" y="89" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WSI-DR0SaIGXLMEpwzdS-34">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-36" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WSI-DR0SaIGXLMEpwzdS-34">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-37" value="Отдел закупки" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WSI-DR0SaIGXLMEpwzdS-34">
+          <mxGeometry x="15" y="25" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-26" value="Накладные на внутренние перемещения" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="WSI-DR0SaIGXLMEpwzdS-6">
+          <mxGeometry x="130" y="159" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-30" value="Отчет о розничных продажах" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WSI-DR0SaIGXLMEpwzdS-6">
+          <mxGeometry x="190" y="254.0000000000001" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-25" value="" style="group" vertex="1" connectable="0" parent="WSI-DR0SaIGXLMEpwzdS-6">
+          <mxGeometry x="180" y="-271" width="250" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-31" value="Выручка" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WSI-DR0SaIGXLMEpwzdS-25">
+          <mxGeometry x="40" y="587.9200000000001" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-23" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-575" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-24" value="Поставщики" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="-560" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="WSI-DR0SaIGXLMEpwzdS-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="-561.4999999999998" as="sourcePoint" />
+            <mxPoint x="620" y="-675" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-51" value="Деньги за товары" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="-604" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-59" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Счета на оплату&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;товаров и услуг&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-525.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.602;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WSI-DR0SaIGXLMEpwzdS-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="-525" as="sourcePoint" />
+            <mxPoint x="560" y="-529.8199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="875" y="-760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-28" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="885" y="-750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-29" value="Склад" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="-735" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.107;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WSI-DR0SaIGXLMEpwzdS-36" target="WSI-DR0SaIGXLMEpwzdS-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="-590" as="sourcePoint" />
+            <mxPoint x="480" y="-659.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WSI-DR0SaIGXLMEpwzdS-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="-711" as="sourcePoint" />
+            <mxPoint x="610" y="-590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.967;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WSI-DR0SaIGXLMEpwzdS-28" target="WSI-DR0SaIGXLMEpwzdS-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="-760" as="sourcePoint" />
+            <mxPoint x="807.5124999999998" y="-638.1099999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.995;entryY=0.533;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WSI-DR0SaIGXLMEpwzdS-3" target="WSI-DR0SaIGXLMEpwzdS-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="-540" as="sourcePoint" />
+            <mxPoint x="870" y="-590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="WSI-DR0SaIGXLMEpwzdS-3" target="WSI-DR0SaIGXLMEpwzdS-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="-540" as="sourcePoint" />
+            <mxPoint x="870" y="-590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-48" value="Накладная от поставщика" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-660" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-21" value="Выписка по счету" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="-576.9999999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-4" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-566.9999999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WSI-DR0SaIGXLMEpwzdS-5" value="Главный кассир" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="925" y="-551.9999999999999" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
