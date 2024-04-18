@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T19:15:08.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition Yx GX)" etag="dojW8GZ7EuCU_7M06Ntu" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T19:21:27.366Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0 (Edition Yx GX)" etag="5HkWvvoWM7BrRFrHRkKt" version="24.2.5" type="github">
   <diagram name="Страница — 1" id="3SdyJChY2JD_F6LnlSKC">
     <mxGraphModel dx="1114" dy="638" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,6 +66,12 @@
         </mxCell>
         <mxCell id="L5TramIF8Mxy3oVvmTqs-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;3. Взаимодействие с&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;моделью&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;конкретной&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;&amp;nbsp;сущности&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="324" width="168" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="L5TramIF8Mxy3oVvmTqs-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;5. Визуализация view в&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;браузере пользователя&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="263" y="543" width="182" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="L5TramIF8Mxy3oVvmTqs-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;4. Контроллер запускает&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;просмотр результата (view)&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="446" width="210" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
